@@ -12,6 +12,8 @@
         msg: 'Demo',
         swin: false
       }
+    },
+    methods: {
     }
   }
 </script>

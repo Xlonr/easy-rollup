@@ -48,7 +48,7 @@ export default {
       contentBase: './',
       historyApiFallback: true,
       host: 'localhost',
-      port: '10101'
+      port: '7070'
     })
   ]
 }
